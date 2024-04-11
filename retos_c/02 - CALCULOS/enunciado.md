@@ -1,6 +1,6 @@
-# 01 - HOLA MUNDO!
+# 02 - CALCULOS
 
-> #### | Publicado -> 04/04/2024 | Corrección -> 11/04/2024 | Deficultad -> Facil |
+> #### | Publicado -> 11/04/2024 | Corrección -> 18/04/2024 | Deficultad -> Facil |
 
 ## Enunciado
 ```
